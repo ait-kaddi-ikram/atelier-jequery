@@ -1,0 +1,28 @@
+body{
+    padding:0;
+    margin:0;
+}
+header{
+    height: 40vh;
+    background-color:grey;
+}
+header h1{
+    color:hotpink;
+    font-size: 55px;
+    text-align: center;
+    font-weight: bold;
+    
+}
+section{
+    margin-inline-start: 200px;
+    margin-inline-end: 200px;
+    background-color: hotpink;   
+}
+.formulaire{
+    margin-inline-start: 50px;
+    margin-inline-end: 50px;
+  
+}
+section h1{
+    text-align: center;
+}
